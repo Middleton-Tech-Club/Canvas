@@ -30,6 +30,7 @@ html {
     line-height: 5px;
     text-align: center;
     border-radius: 15px;
+    margin-top: 30px;
 }
 
 .page h3 {
@@ -45,6 +46,7 @@ html {
     background-color: rgb(192, 17, 192);
     outline: 5px solid whitesmoke;
     border-radius: 20px;
+    font-size: 40px;
     font-size: 30px;
     height: 50px;
     text-align: center;
